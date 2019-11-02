@@ -10,8 +10,8 @@ import re
 app = Flask(__name__)
 api = Api(app)
 
-darksky_api = "b5ba4325a8b789c71ebf717464b9a1bc"
-geocode_api = "AIzaSyCNB2W8Z3zCJHDriis9G1AIOtHJ_h0aheQ"
+darksky_api = "<your_api_key_here>"
+geocode_api = "<your_api_key_here>"
 
 def get_lat_long(city):
 	response = requests.get(("https://maps.googleapis.com/maps/api/geocode/json?address="+str(city)+"&key="+geocode_api))
