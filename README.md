@@ -50,7 +50,7 @@ Here, 'max_rent' is in dollars.
 
 *Syntax:* ```http://viginesh22.pythonanywhere.com/rent/temperature/<max_rent>,<min_temp>,<mm-dd-yyyy>```
 
-*Example:* ```http://viginesh22.pythonanywhere.com/rent/temperature/700,50,01-01-2020```
+*Example:* ```http://viginesh22.pythonanywhere.com/rent/temperature/750,50,01-01-2020```
 
 Here, 'max_rent' is in dollars and 'min_temp' is in Fahrenheit.
 
@@ -61,7 +61,7 @@ Here, 'max_rent' is in dollars and 'min_temp' is in Fahrenheit.
 
 *Syntax:* ```http://viginesh22.pythonanywhere.com/rent/temperature/<max_rent>,<max_rainfall>,<mm-dd-yyyy>```
 
-*Example:* ```http://viginesh22.pythonanywhere.com/rent/temperature/700,2.00,01-01-2020```
+*Example:* ```http://viginesh22.pythonanywhere.com/rent/temperature/750,2.00,01-01-2020```
 
 Here, 'max_rent' is in dollars and 'max_rainfall' is in inches.
 
