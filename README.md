@@ -76,7 +76,7 @@ If you'd like to run this web application locally, follow these steps:
 
 - Clone this repository on your local machine
 - Run ```pip install -r requirements.txt``` within the project folder
-- Within the 'nesh_app.py' file, replace the API keys for the geocode and dark sky APIs with your own keys.
+- Within the 'nesh_app.py' file, replace the keys for the geocode and dark sky APIs with your own keys.
 - Execute ```python nesh_app.py```
 - Connect to the local host and run the API calls as described in the previous section
 	- *Example:* htttp://127.0.0.1:5000/summary/Houston
