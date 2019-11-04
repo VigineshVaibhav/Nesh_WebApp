@@ -4,7 +4,7 @@
 
 The API for this technical assessment is hosted on PythonAnywhere, at  [viginesh22.pythonanywhere.com](viginesh22.pythonanywhere.com). Here is a list of calls you can make to the API:
 
-(*Note: Please capitalize the names of cities when calling the API.*)
+(*Note: Please capitalize the first letter of the names of cities when calling the API.*)
 
 ## 1. Get Current Summary Information of a City
 
