@@ -1,4 +1,4 @@
-﻿# Nesh Data Science Interview
+# Nesh Data Science Interview
 ## Author: Viginesh Vaibhav Muraliraman
 
 
