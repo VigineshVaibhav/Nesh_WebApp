@@ -1,5 +1,5 @@
 ## Nesh Data Science Interview
-### Author: Viginesh Vaibhav Muraliraman
+#### Author: Viginesh Vaibhav Muraliraman
 
 
 ### 1. Graph Database Question:  How would you extract all the information related to Project node (Entity)?
